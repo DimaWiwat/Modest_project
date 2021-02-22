@@ -14,6 +14,7 @@
    padding-top: 30px;
    padding-bottom: 30px;
    background: #000;
+   z-index: 200;
 }
 
 .hidden {
@@ -553,6 +554,7 @@ footer {
 
 
 .modal {
+   padding-top: 20%;
    top: 0;
    left: 0;
    width: 100%;
